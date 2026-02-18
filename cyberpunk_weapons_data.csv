@@ -1,0 +1,26 @@
+Weapon_Name,Category,Tech_Type,Is_Iconic,Attack_Speed,Damage_Per_Hit,Reload_Speed,Effective_Range,Weapon_Handling,Magazine_Capacity,Headshot_Multiplier,Armor_Penetration
+Dying Night,Pistol,Power,Yes,8.0,47.0,0.8,22.0,7.7,20,125,25
+Genjiroh,Pistol,Smart,Yes,7.8,40.0,1.6,36.0,4.8,40,85,
+Lexington,Pistol,Power,No,8.0,47.0,0.9,30.0,7.3,20,125,
+Pride,Pistol,Power,Yes,3.3,113.0,0.9,36.0,7.2,10,150,
+Chaos,Pistol,Tech,Yes,5.0,49.0,0.6,36.0,8.0,20,150,50
+Amnesty,Revolver,Power,Yes,5.0,128.0,0.9,18.0,4.1,6,200,25
+Comrade's Hammer,Revolver,Tech,Yes,1.7,559.0,1.7,30.0,2.7,1,,75
+Crash,Revolver,Power,Yes,2.1,128.0,1.1,42.0,4.7,6,200,25
+Doom Doom,Revolver,Power,Yes,3.3,213.0,1.2,30.0,4.7,6,150,25
+Overture,Revolver,Power,No,2.5,128.0,1.1,42.0,4.0,6,200,25
+Fenrir,SMG,Power,Yes,15.0,34.0,1.4,24.0,7.9,40,100,
+Shingen,SMG,Smart,No,6.7,34.0,1.9,24.0,5.3,30,50,
+Saratoga,SMG,Power,No,15.0,34.0,1.4,24.0,8.0,40,100,
+Problem Solver,SMG,Power,Yes,20.0,41.0,1.2,24.0,7.0,90,100,
+Buzzsaw,SMG,Power,Yes,10.0,40.0,1.6,21.0,7.0,40,100,25
+Guts,Shotgun,Power,Yes,0.8,417.0,0.8,12.0,2.5,6,85,75
+Carnage,Shotgun,Power,No,0.8,510.0,0.8,8.0,2.9,4,85,50
+Satara,Shotgun,Tech,No,3.3,458.0,0.9,18.0,3.2,2,85,50
+Mox,Shotgun,Power,Yes,0.9,404.0,0.6,12.0,5.5,8,85,25
+Sovereign,Shotgun,Power,Yes,5.0,263.0,1.0,8.0,2.7,2,85,75
+Prejudice,Assault Rifle,Power,Yes,4.0,74.0,2.4,48.0,8.6,18,100,25
+Ajax,Assault Rifle,Power,No,7.5,51.0,1.8,42.0,7.8,30,100,25
+Copperhead,Assault Rifle,Power,No,11.0,38.0,1.6,42.0,7.3,30,100,25
+Masamune,Assault Rifle,Power,No,5.9,47.0,2.4,48.0,8.3,24,125,25
+Sidewinder,Assault Rifle,Smart,No,10.0,37.0,1.5,36.0,4.0,30,50,
